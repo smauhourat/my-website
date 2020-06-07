@@ -2,4 +2,4 @@
 
 Edit on  update-readme branch
 
-Update locally
+Update locally, then remotely 
